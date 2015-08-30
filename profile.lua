@@ -1,3 +1,5 @@
+-- bases on Cmder's boot script: https://github.com/cmderdev/cmder/blob/master/config/cmder.lua
+
 local settings = {
     color_vsc_unknown = "\x1b[30;1m",
     color_vsc_clean = "\x1b[1;37;40m",
